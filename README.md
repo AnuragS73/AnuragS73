@@ -45,7 +45,7 @@ Transforming Complex Data into Actionable Insights Through Analytics, Automation
   </a>
 
   <a href="https://powerautomate.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/power-automate.svg" alt="Power Automate" width="40" height="40"/>
+    <img src="https://github.com/AnuragS73/own-asset/blob/ea3453965e7a5cc1cd8969253ce32054b110cef0/power%20automate.png" alt="Power Automate" width="40" height="40"/>
   </a>
 
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
