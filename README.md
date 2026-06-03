@@ -41,7 +41,7 @@ Transforming Complex Data into Actionable Insights Through Analytics, Automation
   </a>
 
   <a href="https://azure.microsoft.com/en-us/products/data-explorer/" target="_blank" rel="noreferrer">
-    <img src="https://learn.microsoft.com/en-us/media/logos/logo_kusto.svg" alt="Azure Data Explorer" width="40" height="40"/>
+    <img src="[https://learn.microsoft.com/en-us/media/logos/logo_kusto.svg](https://github.com/AnuragS73/own-asset/blob/dd938456353ac1c88cbb2fad4c8c24c6beb0fdcf/azure-data-explorer-clusters.svg)" alt="Azure Data Explorer" width="40" height="40"/>
   </a>
 
   <a href="https://powerautomate.microsoft.com/" target="_blank" rel="noreferrer">
