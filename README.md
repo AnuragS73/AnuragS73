@@ -4,7 +4,7 @@
 Transforming Complex Data into Actionable Insights Through Analytics, Automation, and Visualization
 </h3>
 
-- 🔭 I’m currently working on <a href="https://github.com/AnuragS73/2-Stage-Loan-Approval-System">2 Stage Loan Approval System</a>
+- 🔭 I’m currently working on <a href="https://github.com/AnuragS73/Text-Summarizer.git">Text Summarizer (with Huggingface)</a>
 
 - 🌱 I’m currently learning **Machine Learning, NLP, Deep Learning**
 
