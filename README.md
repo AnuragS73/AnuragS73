@@ -6,7 +6,7 @@ Transforming Complex Data into Actionable Insights Through Analytics, Automation
 
 - 🔭 I’m currently working on <a href="https://github.com/AnuragS73/Text-Summarizer.git">Text Summarizer (with Huggingface)</a>
 
-- 🌱 I’m currently learning **Machine Learning, NLP, Deep Learning**
+- 🌱 I’m currently learning **NLP (to be a specialist) & Deep Learning**
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/AnuragS73">github.com/AnuragS73</a>
 
