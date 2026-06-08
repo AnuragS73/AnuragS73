@@ -32,6 +32,11 @@ Transforming Complex Data into Actionable Insights Through Analytics, Automation
   </a>
 </p>
 
+  <a href="https://datalemur.com/profile" target="_blank">
+    <img align="center" src="https://scontent.fblr22-1.fna.fbcdn.net/v/t39.30808-6/454613349_473163932158848_5081362338569937475_n.jpg?stp=dst-jpg_tt6&cstp=mx512x512&ctp=s512x512&_nc_cat=103&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=Z74w-0AvHEEQ7kNvwH_0-LI&_nc_oc=AdoPM-ti35lxtmKXwoKsnKBP1AcvSos-C8oHauIf3ZO-oAJ0p-0g4h473m_snQ-p1jp82FyD2EmoDp3y7vK6JnGe&_nc_zt=23&_nc_ht=scontent.fblr22-1.fna&_nc_gid=NT3_ISn066dZhrHnfRgyjw&_nc_ss=7b289&oh=00_Af9NdxhLQgoUTTtYFaeeH0Gl1KcpxS_zw8q-fvuasKrciw&oe=6A2C024D" alt="DataLemur" height="30" width="40" />
+  </a>
+</p>
+
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
