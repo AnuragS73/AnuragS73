@@ -12,10 +12,6 @@ Turning Data into Business Impact through Analytics, Automation, and Machine Lea
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=1000&lines=Senior+Data+Analyst+%7C+Business+Analyst;6%2B+Years+of+Analytics+Experience;Python+%7C+SQL+%7C+Power+BI+%7C+Snowflake;Machine+Learning+%7C+Data+Engineering;Building+Scalable+Data+Products;Transforming+Data+Into+Business+Decisions" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AnuragS73&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
 ---
 
 # 🚀 About Me
