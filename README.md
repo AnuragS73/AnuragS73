@@ -50,7 +50,7 @@ Currently, I am expanding my expertise into **Data Science, NLP, Deep Learning, 
 | 🎬 Current Project | Movie Recommendation System |
 | 📚 Learning | NLP, Deep Learning, Generative AI |
 | 🔍 Exploring | Product Analytics, Recommendation Systems, Forecasting Models |
-| 🎯 Career Direction | Data Science, AI Engineering, Advanced Analytics |
+| 🎯 Career Direction | Data Science (NLP Specialization), Advanced Analytics |
 
 ---
 
