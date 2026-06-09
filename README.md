@@ -1,96 +1,270 @@
 <h1 align="center">Hi 👋, I'm Anurag Sarkar</h1>
 
 <h3 align="center">
-Transforming Complex Data into Actionable Insights Through Analytics, Automation, and Visualization
+Senior Data & Analytics Professional | Business Intelligence | Machine Learning | Data Engineering
 </h3>
 
-- 🔭 I’m currently working on <a href="https://github.com/AnuragS73/Movie-Recommendation-System.git">Movie Recommendation System</a>
-
-- 🌱 I’m currently learning **NLP (to be a specialist) & Deep Learning**
-
-- 👨‍💻 All of my projects are available at <a href="https://github.com/AnuragS73">github.com/AnuragS73</a>
-
-- 📫 How to reach me: **sarkaranurag73@outlook.com**
-
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-  <a href="https://linkedin.com/in/anusarsarkar73" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-
-  <a href="https://www.codechef.com/users/anuragsc73" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" />
-  </a>
-
-  <a href="https://www.hackerrank.com/sarkaranurag73" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
-  </a>
-
-  <a href="https://www.leetcode.com/anurags73" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
+<p align="center">
+Turning Data into Business Impact through Analytics, Automation, and Machine Learning
 </p>
 
-  <a href="https://datalemur.com/profile" target="_blank">
-    <img align="center" src="https://scontent.fblr22-1.fna.fbcdn.net/v/t39.30808-6/454613349_473163932158848_5081362338569937475_n.jpg?stp=dst-jpg_tt6&cstp=mx512x512&ctp=s512x512&_nc_cat=103&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=Z74w-0AvHEEQ7kNvwH_0-LI&_nc_oc=AdoPM-ti35lxtmKXwoKsnKBP1AcvSos-C8oHauIf3ZO-oAJ0p-0g4h473m_snQ-p1jp82FyD2EmoDp3y7vK6JnGe&_nc_zt=23&_nc_ht=scontent.fblr22-1.fna&_nc_gid=NT3_ISn066dZhrHnfRgyjw&_nc_ss=7b289&oh=00_Af9NdxhLQgoUTTtYFaeeH0Gl1KcpxS_zw8q-fvuasKrciw&oe=6A2C024D" alt="DataLemur" height="30" width="40" />
-  </a>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=1000&lines=Senior+Data+Analyst+%7C+Business+Analyst;6%2B+Years+of+Analytics+Experience;Python+%7C+SQL+%7C+Power+BI+%7C+Snowflake;Machine+Learning+%7C+Data+Engineering;Building+Scalable+Data+Products;Transforming+Data+Into+Business+Decisions" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
 
-<p align="left">
+# 🚀 About Me
 
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/>
-  </a>
+I am a Senior Data & Analytics Professional with **6+ years of experience** building Business Intelligence platforms, Machine Learning solutions, Data Warehouses, and Analytics products across Financial Services and Gaming industries.
 
-  <a href="https://azure.microsoft.com/en-us/products/data-explorer/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/AnuragS73/own-asset/blob/dd938456353ac1c88cbb2fad4c8c24c6beb0fdcf/azure-data-explorer-clusters.svg" alt="Azure Data Explorer" width="40" height="40"/>
-  </a>
+I specialize in transforming large-scale datasets into actionable business insights through Data Analytics, Machine Learning, Data Engineering, and Visualization.
 
-  <a href="https://powerautomate.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/AnuragS73/own-asset/blob/ea3453965e7a5cc1cd8969253ce32054b110cef0/power%20automate.png" alt="Power Automate" width="40" height="40"/>
-  </a>
+---
 
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40"/>
-  </a>
+## 🎯 Career Snapshot
 
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/>
-  </a>
+✅ Built Propensity Models across **39M+ customer accounts**
 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
+✅ Reduced Customer Acquisition Cost by **47%**
 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  </a>
+✅ Delivered Analytics Solutions supporting **$450M+ AUM**
 
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
-  </a>
+✅ Built Enterprise Data Warehouses using Snowflake
 
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
+✅ Developed 20+ Executive Power BI Dashboards
 
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40"/>
-  </a>
+✅ Automated Processes reducing Manual Effort by **90%**
 
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
-  </a>
+✅ Mentored Analysts and improved team productivity
 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
+---
 
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40" height="40"/>
-  </a>
+# 📊 Analytics Impact
 
+| Metric | Achievement |
+|----------|------------|
+| Experience | 6+ Years |
+| Accounts Analyzed | 39M+ |
+| Assets Under Management Supported | $450M+ |
+| CPA Reduction | 47% |
+| Reporting Latency Improvement | 70% |
+| Manual Effort Reduction | 90% |
+| Dashboards Delivered | 20+ |
+| SQL Assets Developed | 50+ |
+| Data Sources Integrated | 10+ |
+| Analysts Mentored | 6 |
+
+---
+
+# 💼 Current Focus
+
+🔭 Building Machine Learning and Recommendation Systems
+
+🌱 Learning NLP, Deep Learning, RAG, LLM Engineering and Agentic AI
+
+📈 Transitioning toward Data Science and AI Engineering
+
+💡 Passionate about Analytics, Product Insights and Data Products
+
+---
+
+# ⭐ Featured Projects
+
+## 🎬 Movie Recommendation System
+
+An end-to-end content-based recommendation engine using the TMDB dataset.
+
+### Key Features
+
+- NLP-Based Feature Engineering
+- Cosine Similarity Recommendation Engine
+- Streamlit Frontend
+- Interactive Movie Search
+- Scalable Recommendation Pipeline
+
+### Tech Stack
+
+Python • Pandas • NLP • Scikit-Learn • Streamlit
+
+---
+
+## 💰 Loan Approval Prediction System
+
+Machine Learning system to predict loan approval outcomes.
+
+### Highlights
+
+- Feature Engineering
+- Model Comparison
+- Hyperparameter Tuning
+- Explainable Predictions
+- Streamlit Deployment
+
+### Tech Stack
+
+Python • XGBoost • Scikit-Learn • Pandas
+
+---
+
+## 📊 Portfolio Intelligence Platform
+
+Enterprise analytics platform supporting portfolio managers.
+
+### Highlights
+
+- Supported $450M+ Assets
+- Near Real-Time Analytics
+- Intraday P&L Monitoring
+- Automated Reporting
+- Power BI Dashboards
+
+---
+
+# 🎯 Core Expertise
+
+### Analytics
+
+- Business Analytics
+- Product Analytics
+- Portfolio Analytics
+- Customer Analytics
+- KPI Development
+- Executive Reporting
+
+### Machine Learning
+
+- Classification Models
+- Regression Models
+- Clustering
+- Recommendation Systems
+- Propensity Modeling
+- Forecasting Models
+
+### Data Engineering
+
+- Data Warehousing
+- ETL / ELT
+- Data Modeling
+- SQL Optimization
+- Workflow Automation
+- Data Governance
+
+### Visualization
+
+- Power BI
+- Dashboard Design
+- Data Storytelling
+- DAX
+- Power Query
+
+---
+
+# 🛠 Tech Stack
+
+### Programming
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+![KQL](https://img.shields.io/badge/Kusto_Query_Language-0078D4?style=for-the-badge)
+
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge)
+
+---
+
+### BI & Analytics
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+---
+
+### Databases
+
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+
+![Azure Data Explorer](https://img.shields.io/badge/Azure_Data_Explorer-0078D4?style=for-the-badge)
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge)
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+### Machine Learning
+
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+
+---
+
+# 📚 2026 Roadmap
+
+- Advanced NLP
+- Deep Learning
+- LLM Engineering
+- Agentic AI
+- RAG Applications
+- MLOps
+- Recommendation Systems
+- Generative AI
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnuragS73&show_icons=true&theme=default" />
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AnuragS73" />
 </p>
+
+---
+
+# 📈 Most Used Languages
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnuragS73&layout=compact" />
+</p>
+
+---
+
+# 🏆 Certifications
+
+🎓 Advanced Certification in Data Science & Machine Learning
+
+E&ICT Academy IIT Guwahati × Accredian
+
+---
+
+# 🤝 Connect With Me
+
+📧 Email: sarkaranurag73@outlook.com
+
+📱 Phone: +91 4785691234
+
+💼 LinkedIn: https://linkedin.com/in/anusarsarkar73
+
+💻 GitHub: https://github.com/AnuragS73
+
+🏆 HackerRank: https://www.hackerrank.com/sarkaranurag73
+
+🧠 LeetCode: https://leetcode.com/anurags73
+
+---
+
+# 💡 Philosophy
+
+> Data is not valuable because it exists.
+>
+> Data becomes valuable when transformed into decisions, actions, and measurable business outcomes.
+
+---
+
+⭐ If you find my projects useful, feel free to connect, collaborate, or contribute.
