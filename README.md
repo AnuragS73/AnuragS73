@@ -162,14 +162,6 @@ Loan Approval Prediction System
 
 ---
 
-# 📈 Most Used Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnuragS73&layout=compact&langs_count=8"/>
-</p>
-
----
-
 # 📚 2026 Learning Roadmap
 
 - Advanced NLP
