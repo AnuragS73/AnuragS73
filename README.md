@@ -32,7 +32,7 @@ Currently, I am expanding my expertise into **Data Science, NLP, Deep Learning, 
 
 | Business Initiative | Impact Delivered |
 |---------------------|------------------|
-| Upgrade Propensity Modeling | Identified 57% of true upgraders across 39M+ customer accounts |
+| Upgrade Propensity Modeling | Identified 57% of true upgraders across 39M+ customer accounts for a global gaming console organization through a propensity modeling framework. |
 | Customer Acquisition Optimization | Reduced CPA by 47% through targeted segmentation |
 | Regional Demand Forecasting | Enabled region-specific inventory optimization across markets |
 | Customer Segmentation | Identified top 25% of customers driving 65% of platform revenue |
