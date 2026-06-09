@@ -196,6 +196,10 @@ Loan Approval Prediction System
 🧠 **LeetCode:** https://leetcode.com/anurags73
 
 ---
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=AnuragS73&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+---
 
 # 💡 Philosophy
 
