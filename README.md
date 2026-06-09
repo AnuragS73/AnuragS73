@@ -89,7 +89,7 @@ Python • XGBoost • Scikit-Learn • Pandas • Streamlit
 
 🔗 Repository
 
-<a href="https://github.com/AnuragS73/Loan-Approval-System">
+<a href="https://github.com/AnuragS73/2-Stage-Loan-Approval-System.git">
 Loan Approval Prediction System
 </a>
 
@@ -156,7 +156,8 @@ Loan Approval Prediction System
 # 📊 GitHub Analytics
 
 <p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=AnuragS73&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AnuragS73&show_icons=true&cache_seconds=1800" />
+</p>
 
 <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=AnuragS73"/>
 </p>
