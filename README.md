@@ -24,7 +24,7 @@ I am a Senior Data & Analytics Professional with **6+ years of experience** deli
 
 My expertise lies in building scalable data platforms, developing actionable insights, automating business processes, and enabling organizations to make data-driven decisions.
 
-Currently, I am expanding my expertise into **Data Science, NLP, Deep Learning, Recommendation Systems, LLMs, and Agentic AI**.
+Currently, I am expanding my expertise into **Data Science, NLP, Deep Learning, Recommendation Systems and Generative AI**.
 
 ---
 
@@ -48,7 +48,7 @@ Currently, I am expanding my expertise into **Data Science, NLP, Deep Learning, 
 | Area | Focus |
 |--------|--------|
 | 🎬 Current Project | Movie Recommendation System |
-| 📚 Learning | NLP, Deep Learning, LLM Engineering, RAG Systems, Agentic AI |
+| 📚 Learning | NLP, Deep Learning, Generative AI |
 | 🔍 Exploring | Product Analytics, Recommendation Systems, Forecasting Models |
 | 🎯 Career Direction | Data Science, AI Engineering, Advanced Analytics |
 
@@ -167,8 +167,6 @@ Loan Approval Prediction System
 - Advanced NLP
 - Deep Learning
 - Recommendation Systems
-- LLM Engineering
-- RAG Applications
 - Agentic AI
 - MLOps
 - Generative AI
