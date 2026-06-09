@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anurag Sarkar</h1>
 
 <h3 align="center">
-Senior Data & Analytics Professional | Business Intelligence | Machine Learning | Data Engineering
+Senior Data & Analytics Professional | Business Intelligence | Machine Learning
 </h3>
 
 <p align="center">
