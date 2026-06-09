@@ -205,4 +205,4 @@ Loan Approval Prediction System
 
 ---
 
-⭐ If you find my projects interesting, feel free to connect, collaborate, or discuss Analytics, Data Science, Machine Learning, and Business Intelligence.
+⭐ 🚀 Open to opportunities and discussions in Data Analytics, Business Intelligence, Product Analytics, Data Science, and Machine Learning. If my experience and projects align with your team's needs, I'd be delighted to connect and explore how I can contribute.
