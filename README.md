@@ -153,7 +153,7 @@ Loan Approval Prediction System
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=AnuragS73"/>
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=AnuragS73&theme=whatsapp-light2"/>
 </p>
 
 ---
