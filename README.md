@@ -16,7 +16,7 @@ Turning Data into Business Impact through Analytics, Automation, and Machine Lea
 
 # 🚀 About Me
 
-I am a Senior Data & Analytics Professional with **6+ years of experience** delivering Business Intelligence, Data Engineering, Machine Learning, and Analytics solutions across Financial Services and Gaming industries.
+I am a Senior Data & Analytics Professional with **6+ years of experience** delivering Business Intelligence, Machine Learning, and Analytics solutions across Financial Services and Gaming industries.
 
 My expertise lies in building scalable data platforms, developing actionable insights, automating business processes, and enabling organizations to make data-driven decisions.
 
