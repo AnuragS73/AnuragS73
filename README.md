@@ -43,7 +43,7 @@ Currently, I am expanding my expertise into **Data Science, NLP, Deep Learning, 
 
 | Area | Focus |
 |--------|--------|
-| 🎬 Current Project | [Movie Recommendation System](https://github.com/AnuragS73/Movie-Recommendation-System.git) |
+| 🎬 Latest Project | [2 Stage Loan Approval System](https://github.com/AnuragS73/2-Stage-Loan-Approval-System) |
 | 📚 Learning | NLP, Deep Learning, Generative AI (Langchain, Langraph, LLmaindex |
 | 🔍 Exploring | Product Analytics, Recommendation Systems, Forecasting Models |
 | 🎯 Career Direction | BI Specialist, Data Science (NLP Specialization), Advanced Analytics |
