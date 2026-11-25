@@ -43,7 +43,7 @@ Currently, I am expanding my expertise into **Data Science, NLP, Deep Learning, 
 
 | Area | Focus |
 |--------|--------|
-| 🎬 Latest Project | [2 Stage Loan Approval System](https://github.com/AnuragS73/2-Stage-Loan-Approval-System) |
+| 🎬 Latest Project | [Jajabor AI (AI-Powered Travel Planner)](https://github.com/AnuragS73/JajaborAI-Multi-Agent-Travel-Planner.git) |
 | 📚 Learning | NLP, Deep Learning, Generative AI (Langchain, Langraph, LLmaindex |
 | 🔍 Exploring | Product Analytics, Recommendation Systems, Forecasting Models |
 | 🎯 Career Direction | BI Specialist, Data Science (NLP Specialization), Advanced Analytics |
