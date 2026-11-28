@@ -162,9 +162,7 @@ Loan Approval Prediction System
 
 - Advanced NLP
 - Deep Learning
-- Recommendation Systems
 - Agentic AI
-- MLOps
 - Generative AI
 
 ---
