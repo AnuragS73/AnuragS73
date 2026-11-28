@@ -20,7 +20,7 @@ I am a Senior Data & Analytics Professional with **7+ years of experience** deli
 
 My expertise lies in building scalable data platforms, developing actionable insights, automating business processes, and enabling organizations to make data-driven decisions.
 
-Currently, I am expanding my expertise into **Data Science, NLP, Deep Learning, Recommendation Systems and Generative AI**.
+Currently, I am expanding my expertise into **Data Science, NLP, Deep Learning, Generative AI, Agentic AI & RAG**.
 
 ---
 
@@ -164,6 +164,7 @@ Loan Approval Prediction System
 - Deep Learning
 - Agentic AI
 - Generative AI
+- RAG
 
 ---
 
